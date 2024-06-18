@@ -130,3 +130,49 @@ a {
     font-weight: bold;
     margin-left: 28em;
 }
+
+.thirdcontainer {
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.smallcontainer {
+    border-radius: 10px;
+    background: #3882f6;
+    height: 100px;
+    padding: 30px 150px;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+
+.thirdcontent {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.thirdsubtext {
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#rcorner2 {
+    border-radius: 8px;
+    background: #3882f6;
+    padding: 8px;
+    width: 125px;
+    color: #e5e7eb;
+    border: 2px solid white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+}
