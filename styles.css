@@ -88,6 +88,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 40px;
+    margin-bottom: 100px;
 }
 
 .info {
@@ -105,4 +106,27 @@ a {
     padding: 20px;
     max-width: 200px;
     height: 150px;
+}
+
+.quote {
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.quotecontent {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1f2937;
+    font-style: italic;
+    width: 830px;
+}
+
+.quoteauthor {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 28em;
 }
