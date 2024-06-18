@@ -75,3 +75,34 @@ a {
     background: gray;
     padding: 100px 130px;
 }
+
+.headertwo {
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 48px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.info {
+    max-width: 200px;
+}
+
+.imagesubtext {
+    text-align: center;
+    margin: 10px;
+}
+
+#rcorners {
+    border-radius: 25px;
+    border: 3px solid #3882f6;
+    padding: 20px;
+    max-width: 200px;
+    height: 150px;
+}
